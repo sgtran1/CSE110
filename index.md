@@ -6,7 +6,7 @@
 
 ## Headings
 The above heading is a heading.
-## <a name="section-links"></a>Heading Links
+## Heading Section <a name="heading-section"></a>
 ## Styling text
 **These are bold**
 ## Quoting text
@@ -16,7 +16,7 @@ Use `git checkout <branch_name>` to checkout a branch
 ## External Links
 Click here to access a mysterious link [Mystery](https://leetcode.com/).
 ## Section links
-[Link to Heading Section](#section-links)
+[Link to Heading Section](#heading-section)
 ## Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 [Link to README](README.md)
 ## Ordered List
