@@ -5,7 +5,7 @@
 ![Picture](pic2.jpg)
 
 ## Headings
-The above heading is a heading.
+The above heading is a heading
 ## Heading Section <a name="heading-section"></a>
 ## Styling text
 **These are bold**
