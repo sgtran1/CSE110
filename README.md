@@ -1,2 +1,2 @@
 # CSE110
-https://{sgtran1}.github.io/{CSE110}
+[My GitHub Pages](https://sgtran1.github.io/CSE110)
