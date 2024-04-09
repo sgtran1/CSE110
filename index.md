@@ -1,5 +1,6 @@
 # Sean Tran User Page 
-
+## Who am I
+My name is Sean. I am a programmer who likes to code in java. I also like to learn new things about code. As a person, I like to eat at different food places with my friends and play basketball.
 ## Random Images 
 ![Picture](pic.jpg)
 ![Picture](pic2.jpg)
